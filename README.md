@@ -2,7 +2,7 @@
 
 This Python script retrieves information about Google Cloud instances, including details about CPU, memory, and more.
 
-## Prerequisites
+## Prerequisites (*Required)
 
 Before running the script, ensure the following:
 
